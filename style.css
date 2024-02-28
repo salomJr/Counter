@@ -1,0 +1,37 @@
+.counter {
+    font-size: 50px;
+}
+
+.value {
+    font-size: 50px;
+    margin-bottom: 100px;
+    font-weight: 600;
+    font-family: Georgia, 'Times New R5oman', Times, serif;
+}
+
+.decraese {
+    font-weight: 900;
+    padding: 6px;
+    background: red;
+    margin-top: 25px;
+    border: none;7
+    border-radius: 15%;
+}
+
+.reset {
+    font-weight: 900;
+    padding: 6px;
+    background: blue;
+    margin-top: 25px;
+    border: none;
+    border-radius: 15%;
+}
+
+.increase {
+    font-weight: 900;
+    padding: 6px;
+    background: green;
+    margin-top: 25px;
+    border: none;
+    border-radius: 15%;
+}
